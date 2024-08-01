@@ -1,5 +1,5 @@
 {
-    "name": "italodeveloper/shopify-api-php",
+    "name": "slince/shopify-api-php",
     "description": "Shopify API Client for PHP",
     "keywords": ["shopify", "restful", "shopify-sdk", "shopify-api", "shopify-client", "shopify-client-php"],
     "type": "library",
@@ -14,7 +14,7 @@
         "php": ">=8.2",
         "doctrine/inflector": "^2.0",
         "doctrine/cache": "^2.2",
-        "guzzlehttp/guzzle": "7.9.2",
+        "guzzlehttp/guzzle": "^7.0",
         "slince/di": "^3.0",
         "symfony/yaml": "^5.4 || ^6.0 || ^7.0",
         "jms/serializer": "^3.28"
